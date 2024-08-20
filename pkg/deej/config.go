@@ -10,7 +10,7 @@ import (
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 
-	"github.com/mossi8amk/deej_MZ/pkg/deej/util"
+	"github.com/omriharel/deej/pkg/deej/util"
 )
 
 // CanonicalConfig provides application-wide access to configuration fields,
