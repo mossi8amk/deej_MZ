@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/omriharel/deej/pkg/deej"
+	"github.com/mossi8amk/deej_MZ/pkg/deej"
 )
 
 var (
