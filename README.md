@@ -1,5 +1,5 @@
 # Scope of this project
-Add additional functionality to omriharels original project like
+Add additional functionality to [omriharels original project](https://github.com/omriharel/deej) like
 - assigning individual processes or groups of processes to either the default sound device or an alternative one specified in config.yaml using switches
 - add mute functionality
 - add status updates via LEDs
@@ -12,3 +12,5 @@ Add additional functionality to omriharels original project like
   ```
 - handling muting individual channels Arduino side (middle position of SPDT switches)
 - LEDs will be used to display muted state (on) or operational state (off). Blinking to indicate alternative output might be added later.
+
+Files for custom PCB design and 3D printed case will be provided later.
