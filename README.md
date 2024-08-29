@@ -15,3 +15,5 @@ possible serial output of Arduino:
 - LEDs will be used to display muted state (on) or operational state (off). Blinking to indicate alternative output might be added later.
 
 Files for custom PCB design and 3D printed case will be provided later.
+
+There are currently no plans to implement the additional features on Linux. This might change in the future, though.
